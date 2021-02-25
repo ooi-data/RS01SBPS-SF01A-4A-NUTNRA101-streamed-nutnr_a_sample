@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-SF01A-4A-NUTNRA101-streamed-nutnr_a_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: NUTNR<br>
