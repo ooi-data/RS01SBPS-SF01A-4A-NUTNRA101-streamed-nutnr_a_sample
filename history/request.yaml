@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPS-SF01A-4A-NUTNRA101-streamed-nutnr_a_sample
-last_request: '2022-01-21T01:53:35.294239Z'
+last_request: '2022-01-21T19:23:15.312822Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-SF01A-4A-NUTNRA101-streamed-nutnr_a_sample/main/history/response.json
-status: success
+status: pending
